@@ -1,0 +1,8 @@
+{
+  // Replace with your email configuration, everything can be found in your email settings (needs to specifically set up)
+  // Consult ChatGPT if unsure
+  "SenderEmail": "xxxx@gmail.com",
+  "SenderPassword": "xxxx",
+  "SMTPServer": "smtp.gmail.com",
+  "SMTPPort": xxx
+}
